@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melvin</h1>
-<h3 align="center">A passionate fullstack student</h3>
+<h3 align="center">A fullstack student on the MERN stack</h3>
 
 - 📫 How to reach me **mjucarrillo.1990@gmail.com**
 
